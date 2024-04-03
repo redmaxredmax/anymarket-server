@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "email": "redmax@gmail.com",
+      "password": "$2a$10$FBBvm7r7UeZU.5eRlMBWOOZLNgmlo7PTgWPksLENQvKJBVPEMcije",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "title": "Samsung Galaxy A34 5G 6/128 GB",
+      "fashion": "Samsung",
+      "code": "pq232",
+      "country": "USA",
+      "desc": "samsung",
+      "weight": "22",
+      "length": "12",
+      "width": "22",
+      "height": "12222",
+      "photo": "https://olcha.uz/image/266x266/products/cdn_1/supplier/stores/1/2024-03-30/NlLjJDs87lVpf3tt70uQ4fcY5uGBRPmFLHZmmZugX3tnNpSL48zEzS4SD7Ww.jpg",
+      "selling_code": "22",
+      "qr_code": "QR22342",
+      "cost": "200000",
+      "discount": "19",
+      "cost_ozon": "2300000",
+      "categoryId": "1",
+      "categoryName": "Smartphones",
+      "id": 1
+    },
+    {
+      "title": "Ноутбук HP 15-dy5131wm i3-1215U",
+      "fashion": "HP",
+      "code": "initialValue",
+      "country": "China",
+      "desc": "initialValue",
+      "weight": "22",
+      "length": "22",
+      "width": "22",
+      "height": "12222",
+      "photo": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-11/tOoh9ZMF0HwhWpLncdmlN5qxUzLasGWlKbCTEWgQTntQjsukJtMjt0AVR8DX.jpg",
+      "selling_code": "22",
+      "qr_code": "QR22342",
+      "cost": "5600000",
+      "discount": "19",
+      "cost_ozon": "2300000",
+      "categoryId": "2",
+      "categoryName": "Notebooks",
+      "id": 2
+    },
+    {
+      "title": "Стиральная машина TCL P606F",
+      "fashion": "Avalon",
+      "code": "initialValue",
+      "country": "Uzbekistan",
+      "desc": "initialValue",
+      "weight": "22",
+      "length": "22",
+      "width": "22",
+      "height": "12222",
+      "photo": "https://olcha.uz/image/700x700/products/8BxHzEDJlkUzx00JgD2y0n9OKA2QWZws3NjFtmhIGvK70LQhd3TdK6nCzRrk.jpg",
+      "selling_code": "22",
+      "qr_code": "QR22342",
+      "cost": "470000",
+      "discount": "19",
+      "cost_ozon": "2300000",
+      "categoryId": "3",
+      "categoryName": "Furnishings",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "name": "Smartphones",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-28/N9D2r92f8P6WMC3dpykNCbcRpxDbPYLlMIgWAUeDv94TzlWrYDxIYihCydvD.jpg",
+      "id": 1
+    },
+    {
+      "name": "Notebooks",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-18/AoIgc8DJJM4pwBuF674LpAss1NSvk98ASdAhlhQzBOxMWN53IALhwiqa6t9i.jpg",
+      "id": 2
+    },
+    {
+      "name": "Furnishings",
+      "img": "https://olcha.uz/image/150x150/category/KbjgNsaX0llFfWyJ336ywgK0N8c6H0MUGSn9UX1vdxmUeDGpq1kR4R4UkK5Q.png",
+      "id": 3
+    },
+    {
+      "name": "Auto",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-03-15/ZiNVVrVf1oxe1u30XeaVy0B8gMD5H8MZ85xJXFf6NxFy3Cf2RrkfJYo7nzcV.png",
+      "id": 4
+    }
+  ]
+}
